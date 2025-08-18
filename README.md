@@ -1,1 +1,3 @@
-This is the code for VEX VRC team 2088V based out of Western Mechatronics in Clagray Alberta Canada, This is our public GitHub
+I like 3D printers and Robotics
+
+Team 2088E for the win!!
